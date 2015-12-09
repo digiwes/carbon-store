@@ -673,7 +673,7 @@
         <gson.version>2.4</gson.version>
         <json.version>20070829</json.version>
         <junit.version>4.12</junit.version>
-        <shindig.version>2.5.0-beta5</shindig.version>
+        <shindig.version>2.5.2</shindig.version>
         <el.api.version>2.2</el.api.version>
         <h2.wso2.version>1.2.140.wso2v3</h2.wso2.version>
 
@@ -691,9 +691,9 @@
 
         <httpcomponents-httpclient.wso2.version>4.2.5.wso2v1</httpcomponents-httpclient.wso2.version>
         <httpcomponents-httpcore.wso2.version>4.3.3.wso2v1</httpcomponents-httpcore.wso2.version>
-        <commons.cli.version>1.2</commons.cli.version>
+        <commons.cli.version>1.0</commons.cli.version>
         <commons.beanutils.version>1.8.3</commons.beanutils.version>
-        <http.components.version>4.3.4</http.components.version>
+        <http.components.version>4.3.3</http.components.version>
         <apache.commons.io.version>2.4</apache.commons.io.version>
 
     </properties>
