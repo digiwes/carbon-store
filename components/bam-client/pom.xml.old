@@ -49,7 +49,7 @@
                         <Import-Package>
                             org.wso2.store.util.*;version="${carbon.store.version}",*
                         </Import-Package>
-                        <DynamicImport-Package>javax.xml.parsers,*</DynamicImport-Package>
+                        <DynamicImport-Package>*</DynamicImport-Package>
                         <Bundle-Activator>org.wso2.store.bamclient.Activator</Bundle-Activator>
                     </instructions>
                 </configuration>
